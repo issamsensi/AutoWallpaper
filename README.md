@@ -146,10 +146,6 @@ The project includes 180+ wallpapers in the `assets/wallpapers/` directory. To u
 3. Update the folder path in the script (see Installation instructions above)
 4. The script automatically picks random images from all files in that folder
 
-## 📸 Screenshots
-
-Check out the `assets/screenshots/` directory for visual guides on setup and configuration.
-
 ## 🛠️ Technologies Used
 
 - **Bash** – Linux shell scripting with infinite loop for continuous wallpaper rotation
