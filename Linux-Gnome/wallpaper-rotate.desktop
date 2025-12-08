@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/issamsensi/.local/bin/wallpaper-rotate.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Wallpaper Rotator (GNOME Dark)
+Comment=Rotate wallpaper every 10 minutes using gsettings picture-uri-dark
+
